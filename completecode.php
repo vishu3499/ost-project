@@ -42,7 +42,7 @@ p    {color: #2ECC71;
 <body>
 <h1 style="color:red;">Enter Your Details</h1>
 <div class="container">
-<form method="post" action="dbmovies.php">
+<form method="post" action="">
 <label for="user_name">Name:</label>
 <input type="text" name="user_name" placeholder="Enter Your Name" /><br />
 <label for="user_movie">Movie Name:</label>
