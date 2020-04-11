@@ -8,7 +8,7 @@ Inside project folder save the above files as two seperate files named as below:
 Save the registration html file as registration.php 
 and save the dbmovies php file as dbmovies.php
 If you want to make a single file then create a folder inside htdocs folder and name it as project and inside this folder make a new file as completecode.php or name it as you want then copy code present in the completecode.php file and paste in your file and then run the code.
-If you are using ubuntu then:_
+If you are using ubuntu then:-
 Open the terminal and run mysql, create the database movies using mysql command and then create a table movies with three columns user_name, user_movie, and user_rating.
 Then copy the completecode.php file and paste the same code in your desired file (i have named it as project.php) and run the programme by clicking in the browser and typing url as http://localhost/project.php.
 Remember to make the file in var/www/html. (sudo gedit /var/www/html/project.php)
